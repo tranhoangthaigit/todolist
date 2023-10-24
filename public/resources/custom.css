@@ -1,0 +1,11 @@
+.pagination ul {
+    position: fixed;
+    display: flex;
+    bottom: 75px;
+    right: 500px;
+}
+
+.pagination li {
+    margin-right: 10px;
+}
+
